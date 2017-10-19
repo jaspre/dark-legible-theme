@@ -1,0 +1,15 @@
+{
+    "name": "Dark Legible Theme",
+    "title": "Dark legible theme",
+    "description": "This theme is made for great readability",
+    "homepage": https://github.com/jaspre/dark-legible-theme.git",
+    "version": "1.0.0",
+    "author": "jaspre",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
